@@ -1,29 +1,60 @@
-# Hi there 👋, I'm Ankita V Joshi!
-
-🎓 CS/IT Enthusiast | 💻 Passionate Coder | 🌐 Open Source Learner
-
-## 🚀 Tech Stack
-- Languages: Python, C, Java, 
-- Web Dev: HTML, CSS, React, Node.js
-- Tools & Platforms: Git, GitHub, Linux, VS Code, Docker
-- Databases: MySQL
-- Others: Streamlit, UIPath
-
-## 📌 Projects
-- 🔹 [Recipe Generator using NLP & Streamlit](https://github.com/yourusername/recipe-generator)  
-  A smart recipe suggester based on ingredients using NLP and a Streamlit web interface.
-
-- 🔹 [ISL Gesture Recognition System](https://github.com/yourusername/isl-gesture-recognition)  
-  Converts Indian Sign Language gestures into text using computer vision and deep learning.
-
-- 🔹 [Automated Static Website Deployment (CI/CD)](https://github.com/yourusername/aws-static-deploy)  
-  Auto-deploy static websites using GitHub, AWS S3, CodePipeline.
-
-- 🔹 [MedicQR: Medicine Scanner App](https://github.com/yourusername/medicqr)  
-  React Native app to scan micro QR codes on tablets and show batch, expiry, and usage details.
-
-## 📈 GitHub Stats
-![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+<h1 align="center">Hey there! 👋 I'm Ankita</h1>
+<p align="center">
+  💻 CS Student | 🧠 Debugging Enthusiast | ☕ Fuelled by Coffee & Chaos  
+</p>
 
 ---
-⭐ *Always learning. Always building.*
+
+### 🧠 About Me
+
+- 🔭 Currently working on: Gesture recognition, Med QR scanner & other side quests
+- 🌱 Always learning: Clean code, AI, and how to not break production 🙃
+- 🛠️ Tools I Use: Python, Java, C++, React Native, Streamlit, Git, Docker
+- ⚡ Fun fact: I Google errors faster than I run from social situations
+
+---
+
+### 🔥 Tech Stack
+
+```python
+Languages     = ["Python", "C++", "Java", "JavaScript"]
+Web_Stuff     = ["HTML", "CSS", "React", "Streamlit"]
+Backend_Love  = ["Spring Boot", "Node.js", "REST APIs"]
+Tools_Of_Chaos= ["Git", "GitHub", "Docker", "Postman", "VS Code"]
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/> </p>
+🧪 My Projects
+Project	Description
+🧾 Recipe Generator	Suggests recipes based on ingredients using NLP & Streamlit
+🤟 ISL Gesture Recognizer	Converts ISL gestures to text using CV + ML
+💊 MedicQR App	QR scanner that shows medicine info + expiry
+🚀 CI/CD Static Deploy	Deploys static site via AWS S3 + GitHub Actions
+
+😎 Let’s Connect
+
+
+
+
+---
+
+### ✅ Now Do This:
+1. **Create a new repo** named exactly like your GitHub username  
+   _(e.g., `ankitaaarna` if that’s your username)_
+
+2. Paste the above content into a file named `README.md` in that repo
+
+3. **Replace:**
+   - `yourusername` → your actual GitHub username
+   - `your-link` → your LinkedIn profile URL
+   - `yourportfolio.com` → your portfolio (or remove if you don’t have one yet)
+   - `yourmail@gmail.com` → your email
+
+---
+
+Want a version with:
+- ✨ Animated GIFs?
+- 🖼️ Custom banners or memes?
+- 💚 Contribution graph + streak counter?
+
+Say the word and I’ll magic it up ✨
