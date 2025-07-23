@@ -31,34 +31,9 @@ Tools_Of_Chaos= ["Git", "GitHub", "Docker", "Postman", "VS Code"]
 🧪 My Projects
 Project	Description
 🧾 Recipe Generator	Suggests recipes based on ingredients using NLP & Streamlit
-🤟 ISL Gesture Recognizer	Converts ISL gestures to text using CV + ML
 💊 MedicQR App	QR scanner that shows medicine info + expiry
 🚀 CI/CD Static Deploy	Deploys static site via AWS S3 + GitHub Actions
+.... and many more
 
 😎 Let’s Connect
 
-
-
-
----
-
-### ✅ Now Do This:
-1. **Create a new repo** named exactly like your GitHub username  
-   _(e.g., `ankitaaarna` if that’s your username)_
-
-2. Paste the above content into a file named `README.md` in that repo
-
-3. **Replace:**
-   - `yourusername` → your actual GitHub username
-   - `your-link` → your LinkedIn profile URL
-   - `yourportfolio.com` → your portfolio (or remove if you don’t have one yet)
-   - `yourmail@gmail.com` → your email
-
----
-
-Want a version with:
-- ✨ Animated GIFs?
-- 🖼️ Custom banners or memes?
-- 💚 Contribution graph + streak counter?
-
-Say the word and I’ll magic it up ✨
