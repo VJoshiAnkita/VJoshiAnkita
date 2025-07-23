@@ -23,10 +23,10 @@ Backend_Love  = ["Spring Boot", "Node.js", "REST APIs"]
 Tools_Of_Chaos= ["Git", "GitHub", "Docker", "Postman", "VS Code"]
 
 <h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VJoshiAnkita&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshiAnkita&layout=compact&theme=tokyonight" height="150"/>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VJoshiAnkita&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshiAnkita&theme=tokyonight&hide_border=true"/>
+</div>
 
 🧪 My Projects
 Project	Description
