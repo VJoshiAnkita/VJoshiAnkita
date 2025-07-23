@@ -14,6 +14,12 @@
 
 ---
 
+<h3>📊 GitHub Stats</h3>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VJoshiAnkita&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=VJoshiAnkita&theme=tokyonight&hide_border=true"/>
+</div>
+
 ### 🔥 Tech Stack
 
 ```python
