@@ -1,0 +1,29 @@
+# Hi there 👋, I'm Ankita V Joshi!
+
+🎓 CS/IT Enthusiast | 💻 Passionate Coder | 🌐 Open Source Learner
+
+## 🚀 Tech Stack
+- Languages: Python, C, Java, 
+- Web Dev: HTML, CSS, React, Node.js
+- Tools & Platforms: Git, GitHub, Linux, VS Code, Docker
+- Databases: MySQL
+- Others: Streamlit, UIPath
+
+## 📌 Projects
+- 🔹 [Recipe Generator using NLP & Streamlit](https://github.com/yourusername/recipe-generator)  
+  A smart recipe suggester based on ingredients using NLP and a Streamlit web interface.
+
+- 🔹 [ISL Gesture Recognition System](https://github.com/yourusername/isl-gesture-recognition)  
+  Converts Indian Sign Language gestures into text using computer vision and deep learning.
+
+- 🔹 [Automated Static Website Deployment (CI/CD)](https://github.com/yourusername/aws-static-deploy)  
+  Auto-deploy static websites using GitHub, AWS S3, CodePipeline.
+
+- 🔹 [MedicQR: Medicine Scanner App](https://github.com/yourusername/medicqr)  
+  React Native app to scan micro QR codes on tablets and show batch, expiry, and usage details.
+
+## 📈 GitHub Stats
+![Ankita's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+⭐ *Always learning. Always building.*
