@@ -9,7 +9,7 @@
 
 - 🔭 Currently working on: Gesture recognition, Med QR scanner & other side quests
 - 🌱 Always learning: Clean code, AI, and how to not break production 🙃
-- 🛠️ Tools I Use: Python, Java, C++, React Native, Streamlit, Git, Docker
+- 🛠️ Tools I Use: Python, Java, C, React Native, Streamlit, Github, JIRA
 - ⚡ Fun fact: I Google errors faster than I run from social situations
 
 ---
@@ -22,8 +22,12 @@ Web_Stuff     = ["HTML", "CSS", "React", "Streamlit"]
 Backend_Love  = ["Spring Boot", "Node.js", "REST APIs"]
 Tools_Of_Chaos= ["Git", "GitHub", "Docker", "Postman", "VS Code"]
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=VJoshiAnkita&show_icons=true&theme=tokyonight" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="150"/> </p>
+<h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VJoshiAnkita&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJoshiAnkita&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
 🧪 My Projects
 Project	Description
 🧾 Recipe Generator	Suggests recipes based on ingredients using NLP & Streamlit
