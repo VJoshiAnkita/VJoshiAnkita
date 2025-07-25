@@ -28,7 +28,7 @@ Web_Stuff     = ["HTML", "CSS", "React", "Streamlit"]
 Backend_Love  = ["Spring Boot", "REST APIs"]
 Tools_Of_Chaos= ["AWS", "Canva", "GitHub", "JIRA", "Postman", "VS Code"]
 
-
+```
 ## 🧪 My Projects
 
 | 🚀 Project                | 🌟 Description                                                                 |
