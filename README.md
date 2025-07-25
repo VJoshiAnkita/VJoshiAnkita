@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on: Gesture recognition, Med QR scanner & other side quests
+- 🔭 Currently working on: Med QR scanner & other side quests
 - 🌱 Always learning: Clean code, AI, and how to not break production 🙃
 - 🛠️ Tools I Use: Python, Java, C, React Native, Streamlit, Github, JIRA
 - ⚡ Fun fact: I Google errors faster than I run from social situations
