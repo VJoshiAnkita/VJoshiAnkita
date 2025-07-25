@@ -27,13 +27,25 @@ Languages     = ["Python", "C", "Java", "JavaScript"]
 Web_Stuff     = ["HTML", "CSS", "React", "Streamlit"]
 Backend_Love  = ["Spring Boot", "REST APIs"]
 Tools_Of_Chaos= ["AWS", "Canva", "GitHub", "JIRA", "Postman", "VS Code"]
-```
 
-🧪 My Projects
-Project	Description
-🧾 Recipe Generator	Suggests recipes based on ingredients using NLP & Streamlit
-💊 MedicQR App	QR scanner that shows medicine info + expiry
-🚀 CI/CD Static Deploy	Deploys static site via AWS S3 + GitHub Actions
-.... and many more
 
-😎 Let’s Connect
+## 🧪 My Projects
+
+| Project 🚀              | Description 🌟                                                                 |
+|-------------------------|---------------------------------------------------------------------------------|
+| 🧾 **Recipe Generator** | Smart recipe suggester using NLP & Streamlit based on what's in your kitchen 🥘 |
+| 💊 **MedicQR App**      | Micro QR scanner that instantly shows medicine details & expiry 📱              |
+| ⚙️ **CI/CD Auto Deploy**| One-click static site deployment via AWS S3 + GitHub Actions 🚀                |
+| 🎨 **More Projects...** | ...and a lot more cool stuff brewing! Stay tuned 🍵                             |
+
+---
+
+## 😎 Let’s Connect!
+
+Let’s geek out together over code, caffeine & creativity!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankita-v-joshi-966562313)
+- 🖥️ [GitHub](https://github.com/VJoshiAnkita)
+- 📬 vjoshiankita@gmail.com
+
+> *“Code like poetry — clear, expressive, and from the heart.”*
