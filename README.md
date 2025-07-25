@@ -23,10 +23,10 @@
 ### 🔥 Tech Stack
 
 ```python
-Languages     = ["Python", "C++", "Java", "JavaScript"]
+Languages     = ["Python", "C", "Java", "JavaScript"]
 Web_Stuff     = ["HTML", "CSS", "React", "Streamlit"]
-Backend_Love  = ["Spring Boot", "Node.js", "REST APIs"]
-Tools_Of_Chaos= ["Git", "GitHub", "Docker", "Postman", "VS Code"]
+Backend_Love  = ["Spring Boot", "REST APIs"]
+Tools_Of_Chaos= ["AWS", "Canva", "GitHub", "JIRA", "Postman", "VS Code"]
 ```
 
 🧪 My Projects
